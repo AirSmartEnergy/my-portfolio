@@ -1,37 +1,83 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+    <title>Saad Imtiaz</title>
+<header>Hi, my name is</header>
+<h1> Muhammad Saad bin Imtiaz</h1>
+<h2> I make things for the Web </h2>
+<p> I am an Embedded Systems Engineer, specializing 
+    in designing and developing IoT hardware systems 
+    , with exceptional digital experiences. 
+    Currently, I'm focused on building accessible, 
+    Industrial products at <a href="https://www.au.edu.pk">Embedded Systems Lab -AU</a> </p>
+    <br/>
 
-You can use the [editor on GitHub](https://github.com/Saad-Imtiaz/my-portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+    <a href="mailto:saadimtiazsial@gmail.com"> Get In Touch </a>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<main> 
+    <body>
+        <h2 align = center;> 1. About me  </h2> <img src=""
+            <p> Hello! My name is Saad and I enjoy creating things that live on the internet.
+                  My interest in Embedded Systems and Front End Development started back 
+                    in 2016 when I decited to make a home automation system project in my bacholars degree,
+                    
+                    - Turns out I have made microcontrollers as my pets.</p>
+                    <br>
 
-### Markdown
+<p>  Fast-forward to today, and I've had the privilege of working in many start-ups and companies.
+     My main focus these days is building an Energy Monitoring System for Industrial Applications at <a href="https://www.au.edu.pk">Embedded Systems Lab -AU</a> 
+     .Also, I am working with multiple clients as a freelancer. </p>
+<p> Here are some technologies I have worked on : </p>
+<ul>
+<li>Microcontroller Programming (AVR,Espressif,STM32)</li>
+<li>FreeRTOS</li>
+<li>Alitum, Eagle and Proteus</li>
+<li>JavaScript</li>
+<li>React</li>
+<li>DS SOLIDWORKS</li>
+<li>DS CATIA V5</li>
+</ul>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h2>2. Places I have worked </h2>
+<dl>
+    <h3>Air University, Pakistan</h3>
+<dt> IOT Research and Development Assisant </dt>
+<dd> 
+    <ul>
+    <li>- Developing Smart Energy Monitoring System for Buildings </li>
+    <li>- Developing C++ firmware for Microcontroller (ESP32)</li>
+    <li>- Implementing FreeRTOS</li>
+    <li>- Front and Back End DB Development for Websever (React, Python)</li>
+    <li>- PCB Designing for IOT Devices</li>
+    <li>- IOT Architecture Design and Development</li>
+    <li>- Embedded system design and analysis</li>
+    <li>- Design, Development and Testing for IOT based solution platform</li>
+    <li>- Developing Cross platform solutions for IOT System</li>
+    <li>- Data Analysis for Energy Consumption</li>
+    <li>- Data Management for IOT systems</li>
+    <li>- Documentation for IOT Solutions</li>
+    </ul>
+</dd>
+<h3>Pakistan Aeronautical Complex, Paksitan</h3>
+<dt>Mechatronics Engineer</dt>
+<dd>
+    <ul>
+        <li>- Designed, prototyped and verified thermomechanical subsystem of airborne AESA radar.</li>
+        <li>- Designed various cooling solutions for radar on SOLIDWORKS.</li>
+        <li>- Simulated the designed cooling solutions on ANSYS (Thermal and Structural Stress Analysis).</li>
+        <li>- Developed and maintained firmware (C++) for embedded platform.</li>
+        <li>- Created and managed documentation for active projects</li>
+        <li>- Interacted with teams and help with the development of customized embedded solutions.</li>
+        <li>- Tested and debugged embedded software.</li>
+        <li>- Developed hardware and software specifications</li>
+        <li>- Developed tools and techniques for testing and verification</li>
 
-```markdown
-Syntax highlighted code block
+    </ul>
+</dd>
 
-# Header 1
-## Header 2
-### Header 3
+</dl>
+    </body>  
+</main>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Saad-Imtiaz/my-portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<footer> Built and Designed by Saad Imtiaz</footer>
+</html>
